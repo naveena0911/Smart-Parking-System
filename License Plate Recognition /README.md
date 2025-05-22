@@ -1,4 +1,4 @@
-#  Smart Parking System with License Plate Recognition (LPR)
+# Module 1 License Plate Recognition (LPR)
 
 ## Project Overview
 
